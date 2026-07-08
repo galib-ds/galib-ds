@@ -1,27 +1,26 @@
 # Assalamualikum 👋 
 # I'm **Galib**.
 
-### Full-Stack Developer | Competitive Programmer | Lifelong Learner
+### Software Engineer | Full-Stack Developer | Competitive Programmer
 
 Passionate about software engineering, problem-solving, and building products that solve real-world problems.
 
-## 📫 Contact me On
+## 📫 Contact Me On :
 
   <a href="https://www.wa.me/8801897780348">
-    <img width="45" height="45" alt="whatsapp" src="https://github.com/user-attachments/assets/8898086f-1582-4738-a3b6-86005ae41729" />&nbsp;&nbsp;
-  </a>
-  
+    <img width="50" height="50" alt="whatsapp" src="https://github.com/user-attachments/assets/8898086f-1582-4738-a3b6-86005ae41729" />&nbsp;&nbsp;
+  </a>  
   <a href="https://www.linkedin.com/in/galibds/">
-    <img width="45" height="45" alt="linkedin" src="https://github.com/user-attachments/assets/d8bb8f96-7703-4635-9c50-025ba2c0d538" />&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=linkedin" />&nbsp;&nbsp;
   </a>
   
-  <a href="mailto:contactmegalib@gmail.com">
-    <img width="45" height="45" alt="gmail" src="https://github.com/user-attachments/assets/78fe597a-9429-4ad1-af36-3df7e1c6665e" />
+  <a href="mailto:contactmegalib@gmail.com">    
+    <img src="https://skillicons.dev/icons?i=gmail" />&nbsp;&nbsp;
   </a>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me :
 
 * 💻 Full-Stack Developer
 * 📚 Currently learning Computer Science fundamentals
@@ -32,7 +31,7 @@ Passionate about software engineering, problem-solving, and building products th
 
 ---
 
-## 📈 Competitive Programming
+## 📈 Competitive Programming :
 
 I regularly practice problem solving on:
 
@@ -48,7 +47,7 @@ I regularly practice problem solving on:
 
 ---
 
-## 💻 Programming Languages
+## 💻 Programming Languages :
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bash,powershell" />
@@ -56,7 +55,7 @@ I regularly practice problem solving on:
 
 ---
 
-## 🛠 Frameworks & Technologies
+## 🛠 Frameworks & Technologies :
 
 ### Currently Learning
 
@@ -78,4 +77,6 @@ I regularly practice problem solving on:
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories, and don't hesitate to connect if you'd like to collaborate or discuss software development.
+⭐ Thanks for visiting my profile! 
+
+Feel free to explore my repositories, and don't hesitate to connect.
