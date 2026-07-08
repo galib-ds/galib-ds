@@ -7,7 +7,7 @@ Passionate about software engineering, problem-solving, and building products th
 
 ## 📫 Contact Me On :
 
-  <a href="https://www.wa.me/8801897780348">
+  <a href="https://wa.me/8801897780348">
     <img width="50" height="50" alt="whatsapp" src="https://github.com/user-attachments/assets/8898086f-1582-4738-a3b6-86005ae41729" />&nbsp;&nbsp;
   </a>  
   <a href="https://www.linkedin.com/in/galibds/">
