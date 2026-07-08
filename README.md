@@ -5,6 +5,19 @@
 
 Passionate about software engineering, problem-solving, and building products that solve real-world problems.
 
+## 📫 Contact me On
+
+  <a href="https://www.wa.me/8801897780348">
+    <img width="45" height="45" alt="whatsapp" src="https://github.com/user-attachments/assets/8898086f-1582-4738-a3b6-86005ae41729" />&nbsp;&nbsp;
+  </a>
+  
+  <a href="https://www.linkedin.com/in/galibds/">
+    <img width="45" height="45" alt="linkedin" src="https://github.com/user-attachments/assets/d8bb8f96-7703-4635-9c50-025ba2c0d538" />&nbsp;&nbsp;
+  </a>
+  
+  <a href="mailto:contactmegalib@gmail.com">
+    <img width="45" height="45" alt="gmail" src="https://github.com/user-attachments/assets/78fe597a-9429-4ad1-af36-3df7e1c6665e" />
+  </a>
 
 ---
 
